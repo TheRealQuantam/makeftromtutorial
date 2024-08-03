@@ -18,11 +18,11 @@ Now that we've gone over what makeftrom and FamiTracker conversions even are, le
 
 [Part 2: Basic Use](./basic-use.md)
 
-[Part 3: More Advanced Features](./features.md)
+Part 3: More Advanced Features
 
-[Part 4: Music Selection and Issues](./music-selection.md)
+Part 4: Music Selection and Issues
 
-[Part 5: Other Games](./other-games.md)
+Part 5: Other Games
 
 ## Linking and Translations
 

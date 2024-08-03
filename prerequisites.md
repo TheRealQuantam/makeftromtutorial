@@ -54,4 +54,4 @@ Finally, download all the files in [tracks](./tracks) and place them in the dire
 
 ## ...is in Another Castle
 
-Now that we've gotten everything necessary, on to actually using it in [part 2](./part2.md).
+Now that we've gotten everything necessary, on to actually using it in [part 2](./basic-use.md).
