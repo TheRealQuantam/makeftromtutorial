@@ -1,0 +1,24 @@
+{
+	ftcfg: "mm2ft/mm2ft.ftcfg",
+	input_rom: "mm2ft/mm2ft.nes",
+	output_rom: "tutorial.nes",
+	track_dir: "tracks",
+
+	ft_files: [
+		{AirMan2: "airman.ftm"},
+	],
+
+	c2_files: [
+		// Mega Man: The New Lands - Boss (King Kong 2 and/or Wai Wai World - Boss)
+        {KingKong2WaiWaiWorldBoss: [0x8000, "KingKong2WaiWaiWorldBoss.bin"]},
+	],
+
+	track_map: {
+		Intro: "Ending",
+		FlashMan: "AirMan2",
+	},
+
+	boss_track_map: {
+		FlashMan: "KingKong2WaiWaiWorldBoss",
+	},
+}
